@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<modDesc descVersion="94">
+    <author>YourName</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Mod Title</en>
+    </title>
+    <description>
+        <en><![CDATA[Mod Description]]></en>
+    </description>
+    <iconFilename>icon_image.dds</iconFilename>
+    <multiplayer supported="true" />
+    <storeItems>
+        <storeItem xmlFilename="filename.xml" />
+    </storeItems>
+</modDesc>
