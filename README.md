@@ -12,7 +12,7 @@ The provided `modDesc.xml` template is structured to cover all the basic key asp
   - `<version>`: Indicates the mod version.
 
 - **Title and Description**  
-  - `<title>` and `<description>`: Offer localized mod titles and descriptions (using `<en>` for English, `<de>` for German, etc.) to support different languages.
+  - `<title>` and `<description>`: Offer localised mod titles and descriptions (using `<en>` for English, you can add `<de>` for German, etc.) to support different languages.
 
 - **Icon and Multiplayer Support**  
   - `<iconFilename>`: Defines the filename for the mod’s icon image.  
