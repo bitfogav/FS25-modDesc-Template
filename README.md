@@ -16,7 +16,7 @@ The provided `modDesc.xml` template is structured to cover all the basic key asp
 
 - **Icon and Multiplayer Support**  
   - `<iconFilename>`: Defines the filename for the mod’s icon image.  
-  - `<multiplayer>`: Contains attributes like `supported` and `only` to indicate multiplayer compatibility.
+  - `<multiplayer>`: To indicate multiplayer compatibility.
 
 - **Store Items**  
   - `<storeItems>`: Lists any additional store items provided with the mod.  
